@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\WPF practice\WPF practice\bin\Debug\WPF practice.exe.config
+C:\Users\Admin\source\repos\WPF practice\WPF practice\bin\Debug\WPF practice.exe
+C:\Users\Admin\source\repos\WPF practice\WPF practice\bin\Debug\WPF practice.pdb
+C:\Users\Admin\source\repos\WPF practice\WPF practice\obj\Debug\WPF practice.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\WPF practice\WPF practice\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\WPF practice\WPF practice\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\WPF practice\WPF practice\obj\Debug\WPF practice_MarkupCompile.cache
+C:\Users\Admin\source\repos\WPF practice\WPF practice\obj\Debug\WPF practice_MarkupCompile.lref
+C:\Users\Admin\source\repos\WPF practice\WPF practice\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\WPF practice\WPF practice\obj\Debug\WPF practice.g.resources
+C:\Users\Admin\source\repos\WPF practice\WPF practice\obj\Debug\WPF_practice.Properties.Resources.resources
+C:\Users\Admin\source\repos\WPF practice\WPF practice\obj\Debug\WPF practice.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WPF practice\WPF practice\obj\Debug\WPF practice.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WPF practice\WPF practice\obj\Debug\WPF practice.exe
+C:\Users\Admin\source\repos\WPF practice\WPF practice\obj\Debug\WPF practice.pdb
